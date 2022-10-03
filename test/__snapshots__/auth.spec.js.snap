@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Los test del Registro Snapshot del REGISTRO 1`] = `
+<div>
+  <h2>
+    Registro de nueva cuenta
+  </h2>
+  <input
+    class="correo"
+  />
+  <input
+    class="pass"
+  />
+  <p
+    class="mensaje"
+  />
+  <button
+    class="registro"
+  >
+    Crear cuenta
+  </button>
+  <button
+    class="Regresa"
+  >
+    Regresa
+  </button>
+</div>
+`;
